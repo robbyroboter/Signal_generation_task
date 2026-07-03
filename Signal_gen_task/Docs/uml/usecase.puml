@@ -1,0 +1,25 @@
+@startuml usecase
+left to right direction
+
+actor Пользователь
+
+rectangle "Приложение генерации сигналов" {
+
+    usecase "Генерация сигнала" as UC1
+    usecase "Выбор типа сигнала" as UC2
+    usecase "Ввод параметров" as UC3
+    usecase "Просмотр графика сигнала" as UC4
+    usecase "Просмотр статистики сигнала" as UC5
+    usecase "Сохранение данных сигнала" as UC6
+}
+
+Пользователь --> UC1
+
+
+UC1 --> UC2
+UC1 --> UC3
+UC1 --> UC4
+UC1 --> UC5
+UC1 --> UC6
+
+@enduml

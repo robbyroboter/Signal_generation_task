@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Signal_gen_task.Tests/Signal_gen_task.Tests.csproj" Id="c1db84a9-cb7a-4359-9079-58b4f3a66ee3" />
+  <Project Path="Signal_gen_task.csproj" />
+</Solution>

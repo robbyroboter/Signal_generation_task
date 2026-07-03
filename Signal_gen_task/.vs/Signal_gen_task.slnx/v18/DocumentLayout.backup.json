@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DB84A9-CB7A-4359-9079-58B4F3A66EE3}|..\\Signal_gen_task.Tests\\Signal_gen_task.Tests.csproj|d:\\my_tasks\\signal_generation_task\\signal_gen_task.tests\\signalprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DB84A9-CB7A-4359-9079-58B4F3A66EE3}|..\\Signal_gen_task.Tests\\Signal_gen_task.Tests.csproj|d:\\my_tasks\\signal_generation_task\\signal_gen_task.tests\\signalparameterstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DB84A9-CB7A-4359-9079-58B4F3A66EE3}|..\\Signal_gen_task.Tests\\Signal_gen_task.Tests.csproj|d:\\my_tasks\\signal_generation_task\\signal_gen_task.tests\\signalgeneratortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43EE663-4852-99B0-F5EB-B6BC665DD9A1}|Signal_gen_task.csproj|d:\\my_tasks\\signal_generation_task\\signal_gen_task\\services\\signalgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43EE663-4852-99B0-F5EB-B6BC665DD9A1}|Signal_gen_task.csproj|solutionrelative:services\\signalgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43EE663-4852-99B0-F5EB-B6BC665DD9A1}|Signal_gen_task.csproj|d:\\my_tasks\\signal_generation_task\\signal_gen_task\\services\\signalprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43EE663-4852-99B0-F5EB-B6BC665DD9A1}|Signal_gen_task.csproj|solutionrelative:services\\signalprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43EE663-4852-99B0-F5EB-B6BC665DD9A1}|Signal_gen_task.csproj|d:\\my_tasks\\signal_generation_task\\signal_gen_task\\models\\signalparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43EE663-4852-99B0-F5EB-B6BC665DD9A1}|Signal_gen_task.csproj|solutionrelative:models\\signalparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43EE663-4852-99B0-F5EB-B6BC665DD9A1}|Signal_gen_task.csproj|d:\\my_tasks\\signal_generation_task\\signal_gen_task\\models\\signalpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43EE663-4852-99B0-F5EB-B6BC665DD9A1}|Signal_gen_task.csproj|solutionrelative:models\\signalpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43EE663-4852-99B0-F5EB-B6BC665DD9A1}|Signal_gen_task.csproj|d:\\my_tasks\\signal_generation_task\\signal_gen_task\\models\\signalpointrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43EE663-4852-99B0-F5EB-B6BC665DD9A1}|Signal_gen_task.csproj|solutionrelative:models\\signalpointrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43EE663-4852-99B0-F5EB-B6BC665DD9A1}|Signal_gen_task.csproj|d:\\my_tasks\\signal_generation_task\\signal_gen_task\\models\\signaltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43EE663-4852-99B0-F5EB-B6BC665DD9A1}|Signal_gen_task.csproj|solutionrelative:models\\signaltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43EE663-4852-99B0-F5EB-B6BC665DD9A1}|Signal_gen_task.csproj|d:\\my_tasks\\signal_generation_task\\signal_gen_task\\models\\signalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43EE663-4852-99B0-F5EB-B6BC665DD9A1}|Signal_gen_task.csproj|solutionrelative:models\\signalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43EE663-4852-99B0-F5EB-B6BC665DD9A1}|Signal_gen_task.csproj|d:\\my_tasks\\signal_generation_task\\signal_gen_task\\repositories\\signalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43EE663-4852-99B0-F5EB-B6BC665DD9A1}|Signal_gen_task.csproj|solutionrelative:repositories\\signalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\My_tasks\\Signal_generation_task\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DB84A9-CB7A-4359-9079-58B4F3A66EE3}|..\\Signal_gen_task.Tests\\Signal_gen_task.Tests.csproj|d:\\my_tasks\\signal_generation_task\\signal_gen_task.tests\\signalrepositoryintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43EE663-4852-99B0-F5EB-B6BC665DD9A1}|Signal_gen_task.csproj|d:\\my_tasks\\signal_generation_task\\signal_gen_task\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43EE663-4852-99B0-F5EB-B6BC665DD9A1}|Signal_gen_task.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43EE663-4852-99B0-F5EB-B6BC665DD9A1}|Signal_gen_task.csproj|d:\\my_tasks\\signal_generation_task\\signal_gen_task\\repositories\\isignalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43EE663-4852-99B0-F5EB-B6BC665DD9A1}|Signal_gen_task.csproj|solutionrelative:repositories\\isignalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43EE663-4852-99B0-F5EB-B6BC665DD9A1}|Signal_gen_task.csproj|d:\\my_tasks\\signal_generation_task\\signal_gen_task\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C43EE663-4852-99B0-F5EB-B6BC665DD9A1}|Signal_gen_task.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\README.md",
+              "RelativeDocumentMoniker": "..\\README.md",
+              "ToolTip": "D:\\My_tasks\\Signal_generation_task\\README.md",
+              "RelativeToolTip": "..\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-07-02T18:11:44.725Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignalGeneratorTests.cs",
+              "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task.Tests\\SignalGeneratorTests.cs",
+              "RelativeDocumentMoniker": "..\\Signal_gen_task.Tests\\SignalGeneratorTests.cs",
+              "ToolTip": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task.Tests\\SignalGeneratorTests.cs",
+              "RelativeToolTip": "..\\Signal_gen_task.Tests\\SignalGeneratorTests.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T12:42:04.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignalParametersTests.cs",
+              "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task.Tests\\SignalParametersTests.cs",
+              "RelativeDocumentMoniker": "..\\Signal_gen_task.Tests\\SignalParametersTests.cs",
+              "ToolTip": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task.Tests\\SignalParametersTests.cs",
+              "RelativeToolTip": "..\\Signal_gen_task.Tests\\SignalParametersTests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T13:00:41.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignalProcessorTests.cs",
+              "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task.Tests\\SignalProcessorTests.cs",
+              "RelativeDocumentMoniker": "..\\Signal_gen_task.Tests\\SignalProcessorTests.cs",
+              "ToolTip": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task.Tests\\SignalProcessorTests.cs",
+              "RelativeToolTip": "..\\Signal_gen_task.Tests\\SignalProcessorTests.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T14:15:30.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignalGenerator.cs",
+              "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Services\\SignalGenerator.cs",
+              "RelativeDocumentMoniker": "Services\\SignalGenerator.cs",
+              "ToolTip": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Services\\SignalGenerator.cs",
+              "RelativeToolTip": "Services\\SignalGenerator.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T11:57:35.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignalProcessor.cs",
+              "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Services\\SignalProcessor.cs",
+              "RelativeDocumentMoniker": "Services\\SignalProcessor.cs",
+              "ToolTip": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Services\\SignalProcessor.cs",
+              "RelativeToolTip": "Services\\SignalProcessor.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T13:36:26.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignalPoint.cs",
+              "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Models\\SignalPoint.cs",
+              "RelativeDocumentMoniker": "Models\\SignalPoint.cs",
+              "ToolTip": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Models\\SignalPoint.cs",
+              "RelativeToolTip": "Models\\SignalPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T16:08:50.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignalParameters.cs",
+              "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Models\\SignalParameters.cs",
+              "RelativeDocumentMoniker": "Models\\SignalParameters.cs",
+              "ToolTip": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Models\\SignalParameters.cs",
+              "RelativeToolTip": "Models\\SignalParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T16:08:48.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignalPointRecord.cs",
+              "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Models\\SignalPointRecord.cs",
+              "RelativeDocumentMoniker": "Models\\SignalPointRecord.cs",
+              "ToolTip": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Models\\SignalPointRecord.cs",
+              "RelativeToolTip": "Models\\SignalPointRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T13:17:49.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignalType.cs",
+              "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Models\\SignalType.cs",
+              "RelativeDocumentMoniker": "Models\\SignalType.cs",
+              "ToolTip": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Models\\SignalType.cs",
+              "RelativeToolTip": "Models\\SignalType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T16:08:56.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SignalRecord.cs",
+              "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Models\\SignalRecord.cs",
+              "RelativeDocumentMoniker": "Models\\SignalRecord.cs",
+              "ToolTip": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Models\\SignalRecord.cs",
+              "RelativeToolTip": "Models\\SignalRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T13:17:17.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SignalRepository.cs",
+              "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Repositories\\SignalRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\SignalRepository.cs",
+              "ToolTip": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Repositories\\SignalRepository.cs",
+              "RelativeToolTip": "Repositories\\SignalRepository.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAcwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T13:19:08.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SignalRepositoryIntegrationTests.cs",
+              "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task.Tests\\SignalRepositoryIntegrationTests.cs",
+              "RelativeDocumentMoniker": "..\\Signal_gen_task.Tests\\SignalRepositoryIntegrationTests.cs",
+              "ToolTip": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task.Tests\\SignalRepositoryIntegrationTests.cs",
+              "RelativeToolTip": "..\\Signal_gen_task.Tests\\SignalRepositoryIntegrationTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T15:35:21.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T15:45:46.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ISignalRepository.cs",
+              "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Repositories\\ISignalRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ISignalRepository.cs",
+              "ToolTip": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Repositories\\ISignalRepository.cs",
+              "RelativeToolTip": "Repositories\\ISignalRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T13:18:41.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-29T15:45:50.498Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
