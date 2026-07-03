@@ -17,10 +17,10 @@ jobs:
           dotnet-version: 8.0.x
 
       - name: Restore
-        run: dotnet restore Signal_gen_task.sln
+        run: dotnet restore Signal_gen_task/Signal_gen_task.sln
 
       - name: Build
-        run: dotnet build Signal_gen_task.sln --configuration Release --no-restore
+        run: dotnet build Signal_gen_task/Signal_gen_task.sln --configuration Release --no-restore
 
       - name: Test
-        run: dotnet test Signal_gen_task.sln --configuration Release --no-build
+        run: dotnet test Signal_gen_task/Signal_gen_task.sln --configuration Release --no-build
