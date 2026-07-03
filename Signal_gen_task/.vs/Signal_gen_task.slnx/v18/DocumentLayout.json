@@ -3,6 +3,13 @@
   "WorkspaceRootPath": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\My_tasks\\Signal_generation_task\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43EE663-4852-99B0-F5EB-B6BC665DD9A1}|Signal_gen_task.csproj|d:\\my_tasks\\signal_generation_task\\signal_gen_task\\docs\\uml\\usecase.puml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C43EE663-4852-99B0-F5EB-B6BC665DD9A1}|Signal_gen_task.csproj|solutionrelative:docs\\uml\\usecase.puml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C1DB84A9-CB7A-4359-9079-58B4F3A66EE3}|..\\Signal_gen_task.Tests\\Signal_gen_task.Tests.csproj|d:\\my_tasks\\signal_generation_task\\signal_gen_task.tests\\signalprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -44,9 +51,6 @@
       "RelativeMoniker": "D:0:0:{C43EE663-4852-99B0-F5EB-B6BC665DD9A1}|Signal_gen_task.csproj|solutionrelative:repositories\\signalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\My_tasks\\Signal_generation_task\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C1DB84A9-CB7A-4359-9079-58B4F3A66EE3}|..\\Signal_gen_task.Tests\\Signal_gen_task.Tests.csproj|d:\\my_tasks\\signal_generation_task\\signal_gen_task.tests\\signalrepositoryintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -69,20 +73,33 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "README.md",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\README.md",
               "RelativeDocumentMoniker": "..\\README.md",
               "ToolTip": "D:\\My_tasks\\Signal_generation_task\\README.md",
               "RelativeToolTip": "..\\README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAKYAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-07-02T18:11:44.725Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "usecase.puml",
+              "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Docs\\uml\\usecase.puml",
+              "RelativeDocumentMoniker": "Docs\\uml\\usecase.puml",
+              "ToolTip": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Docs\\uml\\usecase.puml",
+              "RelativeToolTip": "Docs\\uml\\usecase.puml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-03T17:07:35.307Z",
               "EditorCaption": ""
             },
             {
@@ -91,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SignalProcessorTests.cs",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task.Tests\\SignalProcessorTests.cs",
               "RelativeDocumentMoniker": "..\\Signal_gen_task.Tests\\SignalProcessorTests.cs",
@@ -104,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "SignalParametersTests.cs",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task.Tests\\SignalParametersTests.cs",
               "RelativeDocumentMoniker": "..\\Signal_gen_task.Tests\\SignalParametersTests.cs",
@@ -112,12 +129,11 @@
               "RelativeToolTip": "..\\Signal_gen_task.Tests\\SignalParametersTests.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T13:00:41.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-03T13:00:41.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "SignalGeneratorTests.cs",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task.Tests\\SignalGeneratorTests.cs",
               "RelativeDocumentMoniker": "..\\Signal_gen_task.Tests\\SignalGeneratorTests.cs",
@@ -125,12 +141,11 @@
               "RelativeToolTip": "..\\Signal_gen_task.Tests\\SignalGeneratorTests.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAwwEEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T12:42:04.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-03T12:42:04.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "SignalGenerator.cs",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Services\\SignalGenerator.cs",
               "RelativeDocumentMoniker": "Services\\SignalGenerator.cs",
@@ -138,12 +153,11 @@
               "RelativeToolTip": "Services\\SignalGenerator.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAIwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T11:57:35.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-03T11:57:35.581Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "SignalProcessor.cs",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Services\\SignalProcessor.cs",
               "RelativeDocumentMoniker": "Services\\SignalProcessor.cs",
@@ -151,12 +165,11 @@
               "RelativeToolTip": "Services\\SignalProcessor.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAgwBsAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T13:36:26.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-03T13:36:26.666Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "SignalPoint.cs",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Models\\SignalPoint.cs",
               "RelativeDocumentMoniker": "Models\\SignalPoint.cs",
@@ -164,12 +177,11 @@
               "RelativeToolTip": "Models\\SignalPoint.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T16:08:50.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-03T16:08:50.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "SignalParameters.cs",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Models\\SignalParameters.cs",
               "RelativeDocumentMoniker": "Models\\SignalParameters.cs",
@@ -177,12 +189,11 @@
               "RelativeToolTip": "Models\\SignalParameters.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T16:08:48.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-03T16:08:48.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "SignalPointRecord.cs",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Models\\SignalPointRecord.cs",
               "RelativeDocumentMoniker": "Models\\SignalPointRecord.cs",
@@ -190,12 +201,11 @@
               "RelativeToolTip": "Models\\SignalPointRecord.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T13:17:49.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-03T13:17:49.43Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "SignalType.cs",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Models\\SignalType.cs",
               "RelativeDocumentMoniker": "Models\\SignalType.cs",
@@ -203,12 +213,11 @@
               "RelativeToolTip": "Models\\SignalType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T16:08:56.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-03T16:08:56.328Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "SignalRecord.cs",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Models\\SignalRecord.cs",
               "RelativeDocumentMoniker": "Models\\SignalRecord.cs",
@@ -216,12 +225,11 @@
               "RelativeToolTip": "Models\\SignalRecord.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T13:17:17.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-03T13:17:17.505Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "SignalRepository.cs",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Repositories\\SignalRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\SignalRepository.cs",
@@ -229,12 +237,11 @@
               "RelativeToolTip": "Repositories\\SignalRepository.cs",
               "ViewState": "AgIAAG0AAAAAAAAAAAAcwAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T13:19:08.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-03T13:19:08.307Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "SignalRepositoryIntegrationTests.cs",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task.Tests\\SignalRepositoryIntegrationTests.cs",
               "RelativeDocumentMoniker": "..\\Signal_gen_task.Tests\\SignalRepositoryIntegrationTests.cs",
@@ -242,12 +249,11 @@
               "RelativeToolTip": "..\\Signal_gen_task.Tests\\SignalRepositoryIntegrationTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T15:35:21.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-03T15:35:21.035Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
@@ -255,12 +261,11 @@
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T15:45:46.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-29T15:45:46.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ISignalRepository.cs",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Repositories\\ISignalRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ISignalRepository.cs",
@@ -268,20 +273,18 @@
               "RelativeToolTip": "Repositories\\ISignalRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T13:18:41.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-03T13:18:41.013Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
               "ToolTip": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-29T15:45:50.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-29T15:45:50.498Z"
             }
           ]
         }

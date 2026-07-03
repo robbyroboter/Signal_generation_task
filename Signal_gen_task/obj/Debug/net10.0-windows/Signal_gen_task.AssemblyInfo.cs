@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Signal_gen_task")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+586cfe3f812ccd03c0118768986d09391af88750")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1645f6bdb70c94dc38a7edd0ba206debe89a4364")]
 [assembly: System.Reflection.AssemblyProductAttribute("Signal_gen_task")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Signal_gen_task")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -161,3 +161,7 @@
 ### Покрытие кода тестами
 
 ![Покрытие кода тестами](Signal_gen_task/Docs/Screenshots/code-coverage.png)
+
+### Диграмма использования
+
+![Покрытие кода тестами](Signal_gen_task/Docs/Screenshots/Usecase.png)
