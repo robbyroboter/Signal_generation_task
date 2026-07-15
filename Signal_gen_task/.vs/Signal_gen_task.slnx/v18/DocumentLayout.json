@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C43EE663-4852-99B0-F5EB-B6BC665DD9A1}|Signal_gen_task.csproj|d:\\my_tasks\\signal_generation_task\\signal_gen_task\\docs\\manualtestcases.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{C43EE663-4852-99B0-F5EB-B6BC665DD9A1}|Signal_gen_task.csproj|solutionrelative:docs\\manualtestcases.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\My_tasks\\Signal_generation_task\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
@@ -73,11 +77,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "README.md",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\README.md",
               "RelativeDocumentMoniker": "..\\README.md",
@@ -91,15 +95,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "usecase.puml",
-              "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Docs\\uml\\usecase.puml",
-              "RelativeDocumentMoniker": "Docs\\uml\\usecase.puml",
-              "ToolTip": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Docs\\uml\\usecase.puml",
-              "RelativeToolTip": "Docs\\uml\\usecase.puml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-07-03T17:07:35.307Z",
+              "DocumentIndex": 0,
+              "Title": "ManualTestCases.md",
+              "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Docs\\ManualTestCases.md",
+              "RelativeDocumentMoniker": "Docs\\ManualTestCases.md",
+              "ToolTip": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Docs\\ManualTestCases.md",
+              "RelativeToolTip": "Docs\\ManualTestCases.md",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-07-15T15:01:48.644Z",
               "EditorCaption": ""
             },
             {
@@ -109,6 +113,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "usecase.puml",
+              "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Docs\\uml\\usecase.puml",
+              "RelativeDocumentMoniker": "Docs\\uml\\usecase.puml",
+              "ToolTip": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Docs\\uml\\usecase.puml",
+              "RelativeToolTip": "Docs\\uml\\usecase.puml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-03T17:07:35.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "SignalProcessorTests.cs",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task.Tests\\SignalProcessorTests.cs",
               "RelativeDocumentMoniker": "..\\Signal_gen_task.Tests\\SignalProcessorTests.cs",
@@ -116,12 +132,11 @@
               "RelativeToolTip": "..\\Signal_gen_task.Tests\\SignalProcessorTests.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAowDQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T14:15:30.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-03T14:15:30.616Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SignalParametersTests.cs",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task.Tests\\SignalParametersTests.cs",
               "RelativeDocumentMoniker": "..\\Signal_gen_task.Tests\\SignalParametersTests.cs",
@@ -133,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SignalGeneratorTests.cs",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task.Tests\\SignalGeneratorTests.cs",
               "RelativeDocumentMoniker": "..\\Signal_gen_task.Tests\\SignalGeneratorTests.cs",
@@ -145,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "SignalGenerator.cs",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Services\\SignalGenerator.cs",
               "RelativeDocumentMoniker": "Services\\SignalGenerator.cs",
@@ -157,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "SignalProcessor.cs",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Services\\SignalProcessor.cs",
               "RelativeDocumentMoniker": "Services\\SignalProcessor.cs",
@@ -169,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "SignalPoint.cs",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Models\\SignalPoint.cs",
               "RelativeDocumentMoniker": "Models\\SignalPoint.cs",
@@ -181,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "SignalParameters.cs",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Models\\SignalParameters.cs",
               "RelativeDocumentMoniker": "Models\\SignalParameters.cs",
@@ -193,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "SignalPointRecord.cs",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Models\\SignalPointRecord.cs",
               "RelativeDocumentMoniker": "Models\\SignalPointRecord.cs",
@@ -205,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "SignalType.cs",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Models\\SignalType.cs",
               "RelativeDocumentMoniker": "Models\\SignalType.cs",
@@ -217,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "SignalRecord.cs",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Models\\SignalRecord.cs",
               "RelativeDocumentMoniker": "Models\\SignalRecord.cs",
@@ -229,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "SignalRepository.cs",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Repositories\\SignalRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\SignalRepository.cs",
@@ -241,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "SignalRepositoryIntegrationTests.cs",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task.Tests\\SignalRepositoryIntegrationTests.cs",
               "RelativeDocumentMoniker": "..\\Signal_gen_task.Tests\\SignalRepositoryIntegrationTests.cs",
@@ -253,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
@@ -265,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ISignalRepository.cs",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\Repositories\\ISignalRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ISignalRepository.cs",
@@ -277,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\My_tasks\\Signal_generation_task\\Signal_gen_task\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
